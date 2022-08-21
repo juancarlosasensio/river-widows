@@ -1,8 +1,9 @@
 ---
 title: "River Widows, by Juan Carlos Asensio"
-title_html: <div class="title">
+title_html: <div class="title no-bleeding-to-next-page">
             <h1><span>River Widows:</span>
                 <span>Las Doñas Que Lloran Ríos</span>
+                <span>Las Doñas Que Lloran Ríos</span><span>Las Doñas Que Lloran Ríos</span><span>Las Doñas Que Lloran Ríos</span><span>Las Doñas Que Lloran Ríos</span><span>Las Doñas Que Lloran Ríos</span><span>Las Doñas Que Lloran Ríos</span><span>Las Doñas Que Lloran Ríos</span><span>Las Doñas Que Lloran Ríos</span>
             </h1>
             <h2>Juan Carlos Asensio</h2>
             </div>
@@ -11,7 +12,7 @@ author: Juan Carlos Asensio
 slug: river-widows
 pub_date: 2019-08-01
 home_url: "https://www.robinsloan.com/book/annabel-scheme-new-golden-gate"
-cover_image: "/img/palacio-de-los-capitanes-antigua-guatemala.jpg"
+cover_image: "img/palacio-de-los-capitanes-antigua-guatemala.jpg"
 markdown_source: river-widows.md
 spot_color: "rgb(192, 54, 44)"
 use_twitter_card: true
